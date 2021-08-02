@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Abbie Bowen.
+- 👩🏽‍🏫 I have been an elementary school teacher for 7 years. 
+- 🌱 I’m currently learning through Treehouse's Full Stack Javascript Techdegree program.
+- ✅ JavaScript
+- ✅ React
+- ✅ Express
+- ✅ Node.js
+- ✅ Pug
+- 💻 I'm looking for jobs, internships, or to collaborate in the field of edTech.
+- 📫 Reach me @ https://www.linkedin.com/in/abbiebowen/
+
