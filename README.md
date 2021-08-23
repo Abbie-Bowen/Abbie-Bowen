@@ -8,4 +8,5 @@
 - ✅ Pug
 - 💻 I'm looking for jobs, internships, or to collaborate in the field of edTech.
 - 📫 Reach me @ https://www.linkedin.com/in/abbiebowen/
+- 👩🏽‍💻 See what I've been working on: https://abbiebowen.herokuapp.com/
 
