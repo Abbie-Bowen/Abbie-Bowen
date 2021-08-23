@@ -2,6 +2,8 @@
 - 👩🏽‍🏫 I have been an elementary school teacher for 7 years. 
 - 🌱 I’m currently learning through Treehouse's Full Stack Javascript Techdegree program.
 - ✅ JavaScript
+- ✅ CSS
+- ✅ HTML
 - ✅ React
 - ✅ Express
 - ✅ Node.js
