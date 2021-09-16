@@ -8,6 +8,8 @@
 - ✅ Express
 - ✅ Node.js
 - ✅ Pug
+- ✅ SQL & Sequelize
+- ✅ Rest API
 - ✅ Figma
 - 💻 I'm looking for jobs, internships, or to collaborate in the field of edTech.
 - 📫 Reach me @ https://www.linkedin.com/in/abbiebowen/
